@@ -8,7 +8,7 @@ const projects = [
     name: "AI Virtual Try-On & Smart Shopping App",
     year: "Mar2025",
     align: "right",
-    image: "../../public/website-img-2.webp",
+    image: "/website-img-2.webp",
     link: "#",
   },
   {
@@ -16,14 +16,14 @@ const projects = [
     name: "Hirehub",
     year: "July2024",
     align: "left",
-    image: "../../public/website-img-1.png",
+    image: "/website-img-1.png",
     link: "https://github.com/harshadesetty/Recruitment_Platform",
   },
   {
     name: "AI powered Sudoku Solver",
     year: "Jan2023",
     align: "right",
-    image: "../../public/website-img-3.png",
+    image: "/website-img-3.png",
     link: "https://github.com/charitha1106/AI-powered-sudoku-solver",
   },
  
